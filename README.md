@@ -1,7 +1,7 @@
 # Mitosis classification with CNN and explainable model 
 
 ![Untitled](https://user-images.githubusercontent.com/29009898/138671190-4f1a751b-9a79-48c0-8e2f-e4a402c280b4.gif)
-> This image
+> This image shows a dividing CHO (Chinese Hamster Ovary) Cell. The predicted cell state is labelled on the top left via the CNN model. Further, the trained CNN model is investigated with the LIME algorithm for explainability. The red patch shows the region that causes a negative score for this classification and the green patch shows the positive one. 
 
 ## What is this project about?
 
