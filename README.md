@@ -1,6 +1,7 @@
 # Mitosis classification with CNN and explainable model 
 
 ![Untitled](https://user-images.githubusercontent.com/29009898/138671190-4f1a751b-9a79-48c0-8e2f-e4a402c280b4.gif)
+> This image
 
 ## What is this project about?
 
