@@ -20,4 +20,5 @@ Possible application includes clinical diagnosis of imaging data that comes from
 
 ## Authors
 
-@stevengogogo  @VillaHsu
+- [stevengogogo] 
+- [VillaHsu]
