@@ -16,7 +16,7 @@ Possible application includes clinical diagnosis of imaging data that comes from
 ## Presentation
 
 [![](https://user-images.githubusercontent.com/29009898/138673697-f7ada74a-9c14-4799-be4f-1195bbdbdbfd.png)](https://docs.google.com/presentation/d/1UGEUE07AcNoIi5HpMKTkH0K3ejG0hLOw/edit?usp=sharing&ouid=109060256626268937912&rtpof=true&sd=true)
-> [Link](https://docs.google.com/presentation/d/1UGEUE07AcNoIi5HpMKTkH0K3ejG0hLOw/edit?usp=sharing&ouid=109060256626268937912&rtpof=true&sd=true)
+> [Link](https://docs.google.com/presentation/d/1ehAQE3JU7z6V9cX56RJXGWztyd_5NdBW/edit?usp=sharing&ouid=115922715586840460448&rtpof=true&sd=true)
 
 ## Authors
 
